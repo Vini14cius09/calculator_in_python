@@ -1,2 +1,2 @@
-# calculator_in_python
-Creating a calculator.
+# Calculator in Python
+### -> Creating a calculator in Python <-
